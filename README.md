@@ -30,7 +30,7 @@ Education.
 
 **_Two terminal device characterization system_** [v1](https://github.com/vibsaa/pearning) & [v2](https://github.com/vibsaa/CURVE_TRACER_V2) (Sep 19- Dec 19)
 - AVR Atmega16 microcontroller & Embedded C (AVR Studio) for v1 and ESP-32 & Embedded C (Arduino IDE) for v2 are used for implementing the Hardware-Software.
-- v1 is capable ofis capable of providing the Input-Output characteristics for any two-terminal device under 5 seconds diode and resistance under 5 seconds whereas v2 comes with added functionality of providing the Input-Output characteristics for any two-terminal device (e.g. diode, resistance, capacitor, inductor, etc.) under 5 seconds. 
+- v1 is capable of providing the Input-Output characteristics for any two-terminal device under 5 seconds diode and resistance under 5 seconds whereas v2 comes with added functionality of providing the Input-Output characteristics for any two-terminal device (e.g. diode, resistance, capacitor, inductor, etc.) under 5 seconds. 
 - The project comes with a GUI created using Python-Tkinter and the obtained characteristics are displayed on a computer screen. NumPy, Matplotlib, and File Handling is used for data manipulation and visualization.
 - Eagle CAD is used for designing the schematic and PCB for the system.
 
@@ -51,6 +51,10 @@ Matplotlib, SciPy & Pandas- Data plotting using Matplotlib, SciPy- generating si
 - *Analog IC*- Design & Simulation of CMOS Op-Amp circuits, knowledge of MOS, FGMOS & QFGMOS Transistors.
 - *Device Physics and Analog Electronics*- Semiconductor Physics, Fermi level, p-n Junction, various diodes, BJT, MOS Capacitor, Fabrication process, Small Signal Models- BJT, MOS.
 
+Publication
+------------
+- **_Condition Monitoring of Industrial & Commercial Refrigeration Systems using IoT_, 9th ICRITO, IEEE UP Section**
+ 
 Education
 ----------
 - **_Embedded Systems and VLSI, Master of Technology_**  
