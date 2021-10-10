@@ -6,6 +6,16 @@ Vibhanshu Sharma
 
 Projects
 --------
+**[*Memory Verilog implementation to check both frontdoor & backdoor access*](https://github.com/vibsaa/OpenSource_verilog/blob/main/Master/7_memory_access/memory2_tb2.v)** (Oct 21- Oct 21)
+- implemented reusable memory using parameters
+- implemented Testbench using task and functions
+- implemented various testcase to check frontdoor and backdoor access
+- Vim is used as editor & ModelSim is used for RTL simulation
+
+**[*Custom clock generation*](https://github.com/vibsaa/OpenSource_verilog/tree/main/Master/4_clock_variety)** (Oct 21- Oct 21)
+- implemented clock generator in verilog that can generate clock of user provided frequency, duty cycle and jitter
+- A logic to display frequency values in terminal is also implemented
+
 **[*Condition Monitoring of Industrial & Commercial Refrigeration Systems using IoT*](https://prezi.com/view/4bmIZZe6mSGPyPI7kJwv/)** (Feb 21 - May 21)
 
 - ESP-32 and Embedded C is used for implementing the Hardware-Software
@@ -17,11 +27,6 @@ Education.
 - ESP-32 and Embedded C is used for implementing the Hardware-Software.
 - Various systems are developed by a group of students to make it possible for visually impaired people to perform elementary science experiments like speed calculation, optics experiments, knowledge of flower parts, etc.
 - All the projects are developed for & with NCERT under the title "Development of Tactile Kit manual in science at upper primary stage"
-
-**[*Memory blocks & FSM design using RTL*](https://github.com/vibsaa/OpenSource_verilog)** (Nov 20- Nov 20)
-- Spartan-6 FPGA and Verilog is used for implementing the Hardware-Software.
-- 1KB RAM block with asynchronous Read/Write and a Register Bank with 8, 16 Bits registers are designed and implemented.
-- Xilinx ISE & open-source tools like iVerilog and GTKwave are used for developing the systems.
 
 **[*Double Dice Game*](https://github.com/vibsaa/OpenSource_verilog)** (Jan 20- Jan 20)
 - Spartan-6 FPGA and Verilog is used for implementing the Hardware-Software.
@@ -43,7 +48,7 @@ Work Experience
 Skills & Proficiency
 ---------------------
 - *Low Power VLSI Design*- Low power design techniques, Multi Vth, DVFS, CMOS Power dissipation, Power, Area & Performance trade-offs.
-- *Digital System Design*- Expertise in Digital Electronics, Datapath (FSM-D), Control Path Design (FSM), Static timing Analysis (Theoretical), Combinational and Sequential block design, Designing of Memory Blocks and writing testbenches using [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/1A32B85E42B70142).
+- [*Digital System Design*](https://github.com/vibsaa/OpenSource_verilog)- Expertise in Digital Electronics, Datapath (FSM-D), Control Path Design (FSM), Static timing Analysis (Theoretical), Combinational and Sequential block design, Designing of Memory Blocks and writing testbenches using [Verilog](https://hdlbits.01xz.net/wiki/Special:VlgStats/1A32B85E42B70142).
 - *Python*- Data structures (lists, dictionaries, array, linked lists, Trees), OOPS Concepts, NumPy-Curve fitting, UI design using Tkinter, Python scripting
 Matplotlib, SciPy & Pandas- Data plotting using Matplotlib, SciPy- generating signals and obtaining transforms, Exploratory data analysis using Pandas.
 - [*PCB design*](https://www.udemy.com/certificate/UC-20f2bbce-dd7b-40df-9eef-3ed496faa1e3/)- Single layer PCB design and Fabrication, Double-layer PCB design, ERC, DRC.
