@@ -2,7 +2,7 @@ Vibhanshu Sharma
 ======
 
 #### Electronics Engineer with a strong background in Digital electronics and Embedded systems 
-###### [ [vibhanshusharma.me](vibsaa.github.io) ] . [[ vibhanshusharma04@gmail.com ](vibhanshusharma04@gmail.com)] . [ +91-9971452190 ]
+###### [ [Github@vibsaa](https://github.com/vibsaa) ] . [[ vibhanshusharma04@gmail.com ](vibhanshusharma04@gmail.com)] . [ +91-9971452190 ]
 
 Projects
 --------
