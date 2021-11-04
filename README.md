@@ -6,15 +6,28 @@ Vibhanshu Sharma
 
 Projects
 --------
+**[*Interrupt controller with APB interface*](https://github.com/vibsaa/OpenSource_verilog/tree/main/Master/14_Interrupt_controller_with_APB_Interface)** (Nov 21- Nov 21)
+- Interrupt is a mechanism used by peripherals(slaves- usually slower than the processor) to get processor attention.
+- An interrupt controller with functionality of coding priority register as per need is implemented, this coding of the priority register by processor is done using APB interface(APB signals-pclk, penable, pready, prdata, pwrdata, pwrite, etc.)
+- the interrupt mechanism is implemented using 3 state fsm.
+
+**[*Synchronous and Asynchronous FIFO design*](https://github.com/vibsaa/OpenSource_verilog/tree/main/Master/13_FIFO)** (Oct 21- Oct 21)
+- During data transfers there is a possibilty where one component can produce data at a much faster rate than the other component that consumes it, this creates bottleneck in the chip operation. In such cases we use a buffer/FIFO, which will make both components work at their own speed. (Asynchronous FIFO).
+- Parametrized FIFO is designed .
+- As there are two clocks of different frequency, signals in one domain need to be synchronized into other domain to make condition checking possible. one stage synchronizer is used for this.
+- the problem of intermediary stages is solved using gray code encoding of the signals that needed to be synchronized .
+- implemented various testcase to check working.
+- Vim is used as editor & ModelSim is used for RTL simulation.
+
 **[*Memory Verilog implementation to check both frontdoor & backdoor access*](https://github.com/vibsaa/OpenSource_verilog/blob/main/Master/7_memory_access/memory2_tb2.v)** (Oct 21- Oct 21)
-- implemented reusable memory using parameters
-- implemented Testbench using task and functions
-- implemented various testcase to check frontdoor and backdoor access
-- Vim is used as editor & ModelSim is used for RTL simulation
+- implemented reusable memory using parameters.
+- implemented Testbench using task and functions.
+- implemented various testcase to check frontdoor and backdoor access.
+- Vim is used as editor & ModelSim is used for RTL simulation.
 
 **[*Custom clock generation*](https://github.com/vibsaa/OpenSource_verilog/tree/main/Master/4_clock_variety)** (Oct 21- Oct 21)
-- implemented clock generator in verilog that can generate clock of user provided frequency, duty cycle and jitter
-- A logic to display frequency values in terminal is also implemented
+- implemented clock generator in verilog that can generate clock of user provided frequency, duty cycle and jitter.
+- A logic to display frequency values in terminal is also implemented.
 
 **[*Condition Monitoring of Industrial & Commercial Refrigeration Systems using IoT*](https://prezi.com/view/4bmIZZe6mSGPyPI7kJwv/)** (Feb 21 - May 21)
 
