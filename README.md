@@ -1,8 +1,8 @@
 Vibhanshu Sharma
 ======
 
-#### Electronics Engineer with a strong background in Digital electronics and Embedded systems 
-###### [ [Github@vibsaa](https://github.com/vibsaa) ] . [[ vibhanshusharma04@gmail.com ](vibhanshusharma04@gmail.com)] . [ +91-9971452190 ]
+#### Strong engineering professional with a Master of Technology - focused in Embedded Systems and VLSI from Netaji Subhas Institute of Technology. Experienced Engineer with a demonstrated history of working with AVR microcontrollers, FPGA's, RTL, Application-Specific Integrated Circuits (ASIC), and Communication protocols. Currently working with AMD as design verification engineer.
+###### [ [Github@vibsaa](https://github.com/vibsaa) ] . [[ vibhanshusharma04@gmail.com ](vibhanshusharma04@gmail.com)] . [ +91-9971452190 ] . [[ LinkedIn ](https://www.linkedin.com/in/vibhanshu-sharma-201462140/)]
 
 Projects
 --------
@@ -54,6 +54,10 @@ Education.
 
 Work Experience
 ---------------
+[*Silicon Design Engineer-II, AMD (Feb'21- Present)*]
+
+- Formal verification engineer in the core power management team (Bangalore)
+
 [*Teaching Assistant, NPTEL-IITD*] ([Jul 20](https://github.com/vibsaa/vibsaa.github.io/blob/ff0b005349e6f41335d7c8cd20487f1c3887e541/Images&Credentials/NPTEL-July20.pdf)- [Jul21](https://github.com/vibsaa/vibsaa.github.io/blob/ff0b005349e6f41335d7c8cd20487f1c3887e541/Images&Credentials/NPTEL-Jan21.pdf))
 
 - Created course material from PPT's to Final Question Papers, Managed Discussion Forum for the course which has 25k+ students Registered on each run.
@@ -71,7 +75,7 @@ Matplotlib, SciPy & Pandas- Data plotting using Matplotlib, SciPy- generating si
 
 Publication
 ------------
-- **_Condition Monitoring of Industrial & Commercial Refrigeration Systems using IoT_, 9th ICRITO, IEEE UP Section**
+- [V. Sharma and D. V. Gadre, "Condition Monitoring of Industrial & Commercial Refrigeration Systems Using IoT," 2021 9th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO), 2021, pp. 1-6, doi: 10.1109/ICRITO51393.2021.9596504.](https://ieeexplore.ieee.org/document/9596504)
  
 Education
 ----------
@@ -85,13 +89,14 @@ Maharaja Agrasen Institute of Technology, (2015-19)
 
 Engineering Technology
 -----------------------
-| **Languages & OS** | **Hardware** | **Dev tools** |  
-|-----------|:-----------:|-----------:|  
-| Python | AVR Controllers | Xilinx Vivado & ISE |  
-| Verilog | FPGA | Eagle CAD |
-| Embedded C | MSP430 | Proteus |
-| Windows & Linux | ESP-32 | AVR & Arduino Studio |
-| C++ |  | LT-Spice| 
+|S.No| *Languages & OS* | *Hardware* | *Dev tools* |
+| --- |--- | --- | --- |
+|1| Python & C++ | Spartan 6 FPGA | Xilinx Vivado, Questa Sim |  
+|2| Verilog & System Verilog | AVR Controllers | Eagle CAD | 
+|3| Embedded C | MSP430 | Proteus |
+|4| Windows & Linux | ESP-32 | AVR & Arduino Studio |
+|5| Perl, awk, grep & sed |  | LT-Spice|
+|6| SVA & Coverage | | Synopsys Verdi |
 
 Internships
 -------------
