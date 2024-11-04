@@ -2,7 +2,7 @@ Vibhanshu Sharma
 ======
 
 #### Strong engineering professional with a Master of Technology - focused in Embedded Systems and VLSI from Netaji Subhas Institute of Technology. Experienced Engineer with a demonstrated history of working with AVR microcontrollers, FPGA's, RTL, Application-Specific Integrated Circuits (ASIC), and Communication protocols. Currently working with AMD as design verification engineer.
-###### [ [Github@vibsaa](https://github.com/vibsaa) ] . [[ vibhanshusharma04@gmail.com ](vibhanshusharma04@gmail.com)] . [ +91-9971452190 ] . [[ LinkedIn ](https://www.linkedin.com/in/vibhanshu-sharma-201462140/)]
+###### [ [Github@vibsaa](https://github.com/vibsaa) ] . [[ vibhanshusharma04@gmail.com ](vibhanshusharma04@gmail.com)] . [[ LinkedIn ](https://www.linkedin.com/in/vibhanshu-sharma-201462140/)]
 
 Projects
 --------
