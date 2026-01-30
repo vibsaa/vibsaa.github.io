@@ -1,11 +1,12 @@
 // ===== Typing Animation =====
 const typedTextElement = document.getElementById('typed-text');
 const phrases = [
-    'Silicon Design Engineer',
-    'Formal Verification Expert',
+    'PhD Researcher',
+    'ML Accelerator Architect',
+    'Former AMD Engineer',
+    'Deep Learning Enthusiast',
     'VLSI Design Specialist',
-    'RTL Developer',
-    'Embedded Systems Engineer'
+    'Computer Architecture Researcher'
 ];
 let phraseIndex = 0;
 let charIndex = 0;
